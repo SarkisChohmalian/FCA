@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592531526225",
+    "project_id": "cringe-ea14b",
+    "storage_bucket": "cringe-ea14b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592531526225:android:7e541de7220b4d03bc9e70",
+        "android_client_info": {
+          "package_name": "com.example.fca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0So6-l3yDRtumN9Im6VtyZ1-8WCk9m2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
